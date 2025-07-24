@@ -16,7 +16,7 @@ A simple food ordering chatbot built with FastAPI (Python backend), MySQL, Dialo
 ## Screenshot
 Here is what the chatbot looks like in action:
 
-![ChatBot Screenshot](frontend/image.png)
+![ChatBot Screenshot](screenshots/image.png)
 
 ---
 
